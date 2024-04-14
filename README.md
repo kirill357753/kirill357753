@@ -4,7 +4,8 @@
 </div>
 <div id="socials aligh="centre>
   <a href="https://t.me/Pykoz41">
-      <img src="[href://img/shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram/](https://icons8.ru/icon/k4jADXhS5U1t/telegram)" alt="Telegram">
+      <img src="![image](https://github.com/kirill357753/kirill357753/assets/93828702/e1646a36-3825-4bd4-bd45-0a796b5afb62)
+" alt="Telegram">
   </a>
 </div>
 <!--
