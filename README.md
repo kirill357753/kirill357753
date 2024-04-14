@@ -1,5 +1,6 @@
-### <centre>Hi there 👋<centre>
-https://t.me/Pykoz41
+<div id="header" align="centre">
+  <h1>Hi there, I'm Kirill</h1>
+  <h3>https://t.me/Pykoz41</h3>
 
 <!--
 **kirill357753/kirill357753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
