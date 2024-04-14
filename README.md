@@ -2,6 +2,11 @@
   <h1>Hi there, I'm Kirill</h1>
   <h3>https://t.me/Pykoz41</h3>
 </div>
+<div id="socials aligh="centre>
+  <a href="https://t.me/Pykoz41">
+    <img scr="href://img/shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram/>
+  </a>
+</div>
 <!--
 **kirill357753/kirill357753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
