@@ -2,9 +2,9 @@
   <h1>Hi there, I'm Kirill</h1>
 </div>
 <div id="socials" align="center">
-  <img  src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/>
+  <img width="48" height="48"  src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/>
   <a href="https://t.me/Pykoz41">
-      <img  src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram"/>
+      <img width="48" height="48" src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram"/>
   </a>
 </div>
 
