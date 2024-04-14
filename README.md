@@ -1,5 +1,4 @@
 ### Hi there 👋
-![photo1699651197](https://github.com/kirill357753/kirill357753/assets/93828702/ab5915d8-cc1a-4ecf-ba99-81f4e03d933e)
 
 
 <!--
