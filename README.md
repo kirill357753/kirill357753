@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Kirill</h1>
 </div>
 <div id="socials" align="center" >
-  <html><a href="[zhonsonizmaylov@gmail.com](https://mail.google.com/mail/u/2/#inbox)">
+  <html><a href="https://mail.google.com/mail/u/2/#inbox)">
     <img width="48" height="48"  src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/>
   </a>
   <a href="https://t.me/Pykoz41">
