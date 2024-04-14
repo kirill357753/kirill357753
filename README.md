@@ -1,7 +1,7 @@
 <div id="header"  align="center">
   <h1>Hi there, I'm Kirill</h1>
 </div>
-<div id="socials aligh="center>
+<div id="socials" aligh="center">
   <img  src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/>
   <a href="https://t.me/Pykoz41">
       <img  src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram"/>
