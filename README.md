@@ -1,10 +1,9 @@
 <div id="header" align="centre">
   <h1>Hi there, I'm Kirill</h1>
-  <h3>https://t.me/Pykoz41</h3>
 </div>
 <div id="socials aligh="centre>
   <a href="https://t.me/Pykoz41">
-      <img src="![image](https://github.com/kirill357753/kirill357753/assets/93828702/e1646a36-3825-4bd4-bd45-0a796b5afb62)
+      <img src="[![image](https://github.com/kirill357753/kirill357753/assets/93828702/e1646a36-3825-4bd4-bd45-0a796b5afb62)](https://icons8.ru/icon/lUktdBVdL4Kb/telegram)
 " alt="Telegram">
   </a>
 </div>
