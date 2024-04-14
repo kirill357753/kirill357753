@@ -1,5 +1,5 @@
-<div id="header" align="centre">
-  <h1>Hi there, I'm Kirill</h1>
+<div id="header">
+  <h1><centre>Hi there, I'm Kirill</centre></h1>
 </div>
 <div id="socials aligh="centre>
   <a href="https://t.me/Pykoz41">
