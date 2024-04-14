@@ -3,10 +3,10 @@
 </div>
 <div id="socials aligh="centre>
   <a href="https://t.me/Pykoz41">
-      <img src="[[![image](https://github.com/kirill357753/kirill357753/assets/93828702/e1646a36-3825-4bd4-bd45-0a796b5afb62)](https://icons8.ru/icon/lUktdBVdL4Kb/telegram)](https://icons8.ru/icon/TGwDT3FiuxYG/heineken-a-pale-lager-beer-with-alcohol-by-volume-produced-with-red-star-logotype)
-" alt="Telegram">
+      <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
   </a>
 </div>
+
 <!--
 **kirill357753/kirill357753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
