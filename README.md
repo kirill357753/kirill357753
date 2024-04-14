@@ -3,7 +3,7 @@
 </div>
 <div id="socials aligh="centre>
   <a href="https://t.me/Pykoz41">
-      <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
+      <img width="48" height="48" src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram"/>
   </a>
 </div>
 
