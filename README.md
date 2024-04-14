@@ -3,7 +3,7 @@
 </div>
 <div id="socials aligh="centre>
   <a href="https://t.me/Pykoz41">
-      <img src="[![image](https://github.com/kirill357753/kirill357753/assets/93828702/e1646a36-3825-4bd4-bd45-0a796b5afb62)](https://icons8.ru/icon/lUktdBVdL4Kb/telegram)
+      <img src="[[![image](https://github.com/kirill357753/kirill357753/assets/93828702/e1646a36-3825-4bd4-bd45-0a796b5afb62)](https://icons8.ru/icon/lUktdBVdL4Kb/telegram)](https://icons8.ru/icon/TGwDT3FiuxYG/heineken-a-pale-lager-beer-with-alcohol-by-volume-produced-with-red-star-logotype)
 " alt="Telegram">
   </a>
 </div>
