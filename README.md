@@ -2,12 +2,12 @@
   <h1>Hi there, I'm Kirill</h1>
 </div>
 <div id="socials" align="center" >
-  <a href="zhonsonizmaylov@gmail.com">
+  <html><a href="zhonsonizmaylov@gmail.com">
     <img width="48" height="48"  src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/>
   </a>
   <a href="https://t.me/Pykoz41">
       <img width="48" height="48" src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram"/>
-  </a>
+  </a></html>
 </div>
  <div id="Languages and technologies">
    <h1>Languages and technologies</h1>
