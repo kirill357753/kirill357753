@@ -13,8 +13,7 @@
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
  </div>                                                                                                                                                                                                               
-  <h3>:earth_americas: I speak English, Chinese</h3>
-
+ 
 <!--
 **kirill357753/kirill357753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
