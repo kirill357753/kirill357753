@@ -3,7 +3,7 @@
 </div>
 <div id="socials" align="center" >
   <html><a href="[https://mail.google.com/mail/u/2/#inbox)](https://stepik.org/users/636753321/profile?after_pass_reset=true&auth=login)">
-    <img width="50" height="50" src="https://img.icons8.com/ios/50/s.png" alt="s"/>
+    <img width="64" height="64" src="https://img.icons8.com/dusk/64/s.png" alt="s"/>
   </a>
   <a href="https://t.me/Pykoz41">
       <img width="48" height="48" src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram"/>
