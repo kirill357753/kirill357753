@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Kirill</h1>
 </div>
 <div id="socials" align="center" >
-  <a href="[https://mail.google.com/mail/u/2/#inbox)](https://stepik.org/users/636753321/profile?after_pass_reset=true&auth=login)">
+  <a href="https://stepik.org/users/636753321/profile?after_pass_reset=true&auth=login">
     <img width="48" height="48" src="https://img.icons8.com/bubbles/50/s.png" alt="s"/>
   </a>
   <a href="https://t.me/Pykoz41">
