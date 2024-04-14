@@ -7,7 +7,11 @@
       <img width="48" height="48" src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram"/>
   </a>
 </div>
- <h2>About me</h2>                                                                                                                                                                                                                 
+ <div id="Languages and technologies">
+   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+ </div>                                                                                                                                                                                                               
   <h3>:earth_americas: I speak English, Chinese</h3>
 
 <!--
